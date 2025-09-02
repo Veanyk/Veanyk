@@ -1,14 +1,11 @@
-<!-- A welcome banner or a cool GIF. You can find one on sites like https://giphy.com/ -->
-<!-- <p align="center">
-  <img src="[LINK_TO_YOUR_GIF_OR_IMAGE]" width="600" />
-</p> -->
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHg4ZDNyanoxYjVqaHNmamFqM2h0aXc4ZXM2c2dlYW81b2Jua3ViaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LKvHJSPgCj4BjF1F5e/giphy.gif" width="600" />
+</p>
 
 <h1 align="center">Hi there, I'm Veanyk 👋</h1>
 <h3 align="center">A Python Backend Developer focused on building reliable and scalable web solutions.</h3>
 
 ---
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Veanyk&label=Profile%20views&color=blueviolet&style=flat" alt="profile-views" /> </p>
 
 ### 👨‍💻 About Me:
 
@@ -18,6 +15,10 @@ I am a Fullstack Developer specializing in Python for backend systems, with prov
 - 🌱 I’m currently learning more about asynchronous programming concepts and microservices architecture.
 - 💬 Ask me about **Python, Django, aiogram, and React**.
 - 📫 How to reach me: **veanyk03@gmail.com**
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Veanyk&label=Profile%20views&color=blueviolet&style=flat" alt="profile-views" />
+</p>
 
 ---
 
@@ -58,7 +59,6 @@ Here are the technologies I've been working with in my commercial and personal p
       <br><strong>Selenium</strong>
     </td>
     <td align="center" width="120">
-      <!-- Иконка Telegram как замена для Aiogram -->
       <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" height="40" alt="Aiogram" />
       <br><strong>Aiogram</strong>
     </td>
@@ -87,13 +87,10 @@ Here are the technologies I've been working with in my commercial and personal p
 This section displays my activity and stats on GitHub.
 
 <p align="center">
-  <!-- Основная статистика и языки -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Veanyk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veanyk&layout=compact&langs_count=8&theme=dracula"/>
 </p>
-
 <p align="center">
-  <!-- Статистика по непрерывной работе (Streak Stats) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Veanyk&theme=dracula" alt="GitHub Streak" />
 </p>
 <p align="center">
@@ -103,14 +100,13 @@ This section displays my activity and stats on GitHub.
 ---
 
 ### 📫 Connect with me:
-
 You can find me on the following platforms:
 
-<p align="left">
+<p align="center">
   <a href="https://novosibirsk.hh.ru/resume/0e48260dff0f4c7cd90039ed1f594775726561">
     <img src="https://img.shields.io/badge/hh.ru-D6001C?style=for-the-badge&logoColor=white" alt="HeadHunter Profile"/>
   </a>
   <a href="https://t.me/veanyk">
-        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Profile"/>
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Profile"/>
   </a>
 </p>
