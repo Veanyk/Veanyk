@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHg4ZDNyanoxYjVqaHNmamFqM2h0aXc4ZXM2c2dlYW81b2Jua3ViaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LKvHJSPgCj4BjF1F5e/giphy.gif" width="600" />
+  <img src="welcome.gif" width="600" />
 </p>
 
 <h1 align="center">Hi there, I'm Veanyk 👋</h1>
