@@ -93,9 +93,6 @@ This section displays my activity and stats on GitHub.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Veanyk&theme=dracula" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="dist/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
 
 ---
 
