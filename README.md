@@ -87,10 +87,6 @@ Here are the technologies I've been working with in my commercial and personal p
 This section displays my activity and stats on GitHub.
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Veanyk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veanyk&layout=compact&langs_count=8&theme=dracula"/>
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Veanyk&theme=dracula" alt="GitHub Streak" />
 </p>
 
